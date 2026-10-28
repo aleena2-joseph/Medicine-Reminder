@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MedicineReminder</string>
+    <string name="title_medicine_records">Medicine Reminder Records</string>
+    <string name="hint_medicine_name">Medicine Name</string>
+    <string name="hint_dosage">Dosage (e.g. 500 mg)</string>
+    <string name="btn_select_time">Select Scheduled Time</string>
+    <string name="btn_add_medicine">Add Medicine</string>
+    <string name="btn_update_medicine">Update Medicine</string>
+    <string name="title_saved_medicines">Saved Medicines</string>
+</resources>
